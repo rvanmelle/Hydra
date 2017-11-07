@@ -31,6 +31,7 @@
 */
 
 import Foundation
+import Dispatch
 
 //MARK: Context (GCD Wrapper)
 

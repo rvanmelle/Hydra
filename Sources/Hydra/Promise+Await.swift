@@ -32,6 +32,7 @@
 
 
 import Foundation
+import Dispatch
 
 /// Concurrent queue context in which awaits func works
 /// Concurrent queues (also known as a type of global dispatch queue) execute one or more tasks concurrently

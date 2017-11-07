@@ -31,6 +31,7 @@
 */
 
 import Foundation
+import Dispatch
 
 public class Promise<Value> {
 	

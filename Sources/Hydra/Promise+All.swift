@@ -32,6 +32,7 @@
 
 
 import Foundation
+import Dispatch
 
 /// Return a Promises that resolved when all input Promises resolves.
 /// Promises are resolved in parallel in background QoS queue.
