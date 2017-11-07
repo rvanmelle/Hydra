@@ -32,6 +32,7 @@
 
 
 import Foundation
+import Dispatch
 
 public extension Promise {
 
